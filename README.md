@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prashant Sharma.
+- 👋 Hi, I’m Prashant Kumar.
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning.
 - 💞️ 
